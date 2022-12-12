@@ -1,0 +1,19 @@
+.not-founded{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 600px;
+    text-align: center;
+}
+
+.link-back{
+    margin-top: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #0FC295;
+}
+
+code{
+    color: rgb(95, 95, 95);
+    font-style: italic;
+}

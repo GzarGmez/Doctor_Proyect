@@ -1,0 +1,31 @@
+.sent,
+.received {
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.sent {
+    justify-content: flex-end;
+}
+
+.received-content,
+.sent-content {
+    padding: 6px 12px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 3px rgb(100, 100, 100);
+}
+
+.sent-content{
+    color:white;
+    background-color: #66ACD1;
+}
+
+.user-icon {
+    font-size: 25px;
+    border-radius: 50%;
+    padding: 2px;
+    margin: 0px 12px;
+    color: #2589BD;
+    background-color: #DBDBDB;
+}

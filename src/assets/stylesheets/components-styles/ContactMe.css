@@ -1,0 +1,29 @@
+.contact-me{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.contact-info{
+    text-align: center;
+}
+
+.contact-title{
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+.info-title{
+    margin-top: 12px;
+    font-weight: normal;
+}
+
+.contact-content{
+    font-weight: 100;
+    color:#2589BD;
+    font-size: 20px;
+}
+
+.contact-img{
+    transform: scaleX(-1);
+}

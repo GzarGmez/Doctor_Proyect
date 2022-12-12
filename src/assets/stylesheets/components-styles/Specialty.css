@@ -1,0 +1,30 @@
+.specialty{
+    padding: 1px;
+    color: white;
+    text-align: center;
+    background-color: #0FC295;
+}
+
+.title-specialty{
+    font-size: 20px;
+    margin: 18px;
+}
+
+.image-card{
+    width: 350px;
+}
+
+.cards-containers{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+}
+
+.decription{
+    margin: 8px 0 26px
+}

@@ -1,0 +1,25 @@
+.greeting{
+    height: 500px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+    background-color: #0FC295;
+}
+
+.doctor-images{
+    align-self: flex-end;
+    height: 398px;
+}
+
+.title{
+    color: white;
+    align-self: center;
+}
+
+.title-greeting{
+    font-weight: 100;
+}
+
+.subtitle-greeting{
+    font-weight: bolder;
+}

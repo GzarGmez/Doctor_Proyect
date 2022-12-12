@@ -1,0 +1,16 @@
+.about{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.title-about{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.info-about{
+    text-align: center;
+    width: 763px;
+}

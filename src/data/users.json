@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "username":"Wendy Janet Aguilar Gómez",
+        "email":"admin@mail.com",
+        "password":"contraseña1",
+        "role":"admin"
+    },
+    {
+        "id":2,
+        "username":"Javier Galicia Contreras",
+        "email":"client@mail.com",
+        "password":"contraseña2",
+        "role":"client"
+    }
+]

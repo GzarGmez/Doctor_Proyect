@@ -1,0 +1,34 @@
+.replies{
+    margin: 30px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.reply-container{
+    width: 90%;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
+
+.reply-title{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 36px;
+    border-bottom: solid 1px gray;
+    border-radius: 8px;
+}
+
+.messages{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.declaimer{
+    text-align: center;
+    width: 90%;
+    color: #565656;
+    margin-bottom: 100px;
+}

@@ -1,0 +1,13 @@
+.medical-card{
+    margin: 55px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.id-number{
+    display: block;
+}
+.me{
+    margin:0 22px;
+    width: 250px;
+}
